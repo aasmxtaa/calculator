@@ -1,3 +1,3 @@
 # calculator
-a basic caluclator app <br>
+a basic calculator app <br>
 author - asmita yalamanchili✦
