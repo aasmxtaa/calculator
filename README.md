@@ -1,3 +1,3 @@
 # calulator
 a basic caluclator app <br>
-author - asmita yalamanchili
+author - asmita yalamanchili✦
